@@ -1,0 +1,7 @@
+doctor_name,ward,status
+Dr. Mehta,general,free
+Dr. Kapoor,general,busy
+Dr. Rao,emergency,free
+Dr. Singh,emergency,busy
+Dr. Iyer,mental_health,free
+Dr. Sharma,mental_health,busy
